@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\09-create-a-log-file-viewer.csproj",
+      "projectUniqueName": "C:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\09-create-a-log-file-viewer.csproj",
       "projectName": "09-create-a-log-file-viewer",
-      "projectPath": "c:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\09-create-a-log-file-viewer.csproj",
+      "projectPath": "C:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\09-create-a-log-file-viewer.csproj",
       "packagesPath": "C:\\Users\\Mixalis Thomas\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\obj\\",
+      "outputPath": "C:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mixalis Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -88,5 +88,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Mixalis Thomas\\Desktop\\c## exersice\\mslearn-csharp-programming\\mslearn-csharp-programming\\Labfiles\\09-create-a-log-file-viewer\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
