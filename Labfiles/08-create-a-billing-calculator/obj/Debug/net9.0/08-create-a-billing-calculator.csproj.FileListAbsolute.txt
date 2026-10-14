@@ -1,0 +1,15 @@
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.exe
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.deps.json
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.runtimeconfig.json
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.dll
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.pdb
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfoInputs.cache
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfo.cs
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.sourcelink.json
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.dll
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\refint\08-create-a-billing-calculator.dll
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.pdb
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.genruntimeconfig.cache
+C:\Users\Mixalis Thomas\Desktop\c## exersice\mslearn-csharp-programming\mslearn-csharp-programming\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\ref\08-create-a-billing-calculator.dll
