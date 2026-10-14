@@ -30,3 +30,4 @@ allScores.Sort();
  {
      Console.WriteLine($"{i + 1}. {topScores[i]} points");
  }
+
